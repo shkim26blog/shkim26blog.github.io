@@ -4,6 +4,7 @@ description:        Here is development blog
 author:             shkim26blog
 baseurl:            ""
 url:                "https://shkim26blog.github.io"
+theme: jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   
